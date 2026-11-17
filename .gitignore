@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OpenCode local caches
+.opencode/
